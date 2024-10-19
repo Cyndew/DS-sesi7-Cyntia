@@ -1,0 +1,16 @@
+{
+  "name": "playwright_vscode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "playwright": "^1.48.1"
+  }
+}
